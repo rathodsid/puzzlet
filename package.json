@@ -1,0 +1,11 @@
+{
+  "name": "puzzlet-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@puzzlet/sdk": "latest",
+    "@puzzlet/agentmark": "latest",
+    "@puzzlet/all-models": "latest"
+  }
+} 
